@@ -1,0 +1,6 @@
+En este proyecto final de practicas de html tal y como se ha pedido en enunciado he creado una pagina web de un servicio de cuidado de mascotas que contiene pagina de inicio index.html, que muestra menu en la parte superior de la pantalla, una imagen de mascotas y la lema del servicio "No hay nadie que cuidará a tu mascota mejor que nosotros!" en la parte inferior de la pantalla en la zona de footer.
+Menu consiste de cuatro opciones: 
+Quienes somos - cuenta acerca de la empresa, su filosofia, el tiempo que lleva proporcionando cuidado de mascotas.
+Nuestros servicios - tiene estructura de una tabla, donde en la columna de izquierda describe los servicios que se prestan y en la parte derecha esta rellenada con las imagenes de animales.
+Pricing - es tambien una tabla pero la columna de izquierda cuenta sobre precios de los servicios.
+Contacto - tiene estructura de un formulario para rellenar por el cliente para que pueden contactar con el en cuanro antes. El formulario pide los datos: Codigo postal, nombre y apellidos de la persona, correo electronico, telefono y un mensaje.
